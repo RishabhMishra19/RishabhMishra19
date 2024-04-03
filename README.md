@@ -2,6 +2,7 @@
 
 ## About Me
 I'm a passionate Software Developer based in Bangalore. I love working on React, Spring Boot, etc, and exploring new technologies.
+I love spending my time dancing, playing badminton, listening to music & podcasts and Meeting new people
 
 - 🔭 I’m currently working in an organization Osfin.ai.
 - 🌱 I’m currently learning Leadership, Strengthening my code design, and Improving my Coding Skills.
